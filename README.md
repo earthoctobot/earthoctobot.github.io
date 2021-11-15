@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Hello!
 
-You can use the [editor on GitHub](https://github.com/earthoctobot/earthoctobot.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi this is me Sid. I am a student and like mangoes. I am from a place with a lot of rain. My brother is [San](https://github.com/0baa), who he helped me make this site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I don't have a github account yet. (Because I don't have an Email account)
 
-### Markdown
+## [Projects](https://github.com/earthoctobot)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So these are my wonderful projects...
 
-```markdown
-Syntax highlighted code block
+### - [OctoBot](https://github.com/earthoctobot/octobot)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/earthoctobot/earthoctobot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+more things are coming soon...
