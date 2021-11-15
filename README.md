@@ -6,7 +6,7 @@ I don't have a github account yet. (Because I don't have an Email account)
 
 ## [Projects](https://github.com/earthoctobot)
 
-So these are my wonderful projects...
+These are my wonderful projects...
 
 ### - [OctoBot](https://github.com/earthoctobot/octobot)
 
